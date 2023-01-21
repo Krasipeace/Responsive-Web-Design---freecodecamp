@@ -1,4 +1,8 @@
 # [Responsive Web Design - freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+![Lines of Code](https://img.shields.io/tokei/lines/github.com/Krasipeace/Responsive-Web-Design---freecodecamp)
+![Last commit](https://img.shields.io/github/last-commit/Krasipeace/Responsive-Web-Design---freecodecamp)
+
+
  HTML and CSS 
 
 In this Responsive Web Design Certification, you'll learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
