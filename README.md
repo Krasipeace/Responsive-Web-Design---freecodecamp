@@ -1,7 +1,7 @@
 # [Responsive Web Design - freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 ![Lines of Code](https://img.shields.io/tokei/lines/github.com/Krasipeace/Responsive-Web-Design---freecodecamp)
 ![Last commit](https://img.shields.io/github/last-commit/Krasipeace/Responsive-Web-Design---freecodecamp)
-
+[![CodeFactor](https://www.codefactor.io/repository/github/krasipeace/responsive-web-design---freecodecamp/badge)](https://www.codefactor.io/repository/github/krasipeace/responsive-web-design---freecodecamp)
 
  HTML and CSS 
 
